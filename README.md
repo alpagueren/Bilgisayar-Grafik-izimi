@@ -1,1 +1,1 @@
-# Bilgisayar-Grafik-izimi
+# Bilgisayar-Grafik-Cizimi
